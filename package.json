@@ -12,5 +12,18 @@
     "http-errors": "^1.8.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "description": "Node Server",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rick-sanchez666/fwa28konduri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rick-sanchez666/fwa28konduri/issues"
+  },
+  "homepage": "https://github.com/rick-sanchez666/fwa28konduri#readme"
 }
